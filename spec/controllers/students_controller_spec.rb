@@ -1,4 +1,5 @@
 require 'rails_helper'
+# RSpec is a testing tool for Ruby, created for behavior-driven development (BDD). It is the most frequently used testing library for Ruby in production applications
 
 describe StudentsController do
 
